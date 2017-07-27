@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 
---- type:NormalExercise xp:100 skills:1 key:15d729634a
+--- type:NormalExercise xp:200 skills:1 key:15d729634a
 ## Pulling Data From Dataframe
 
 We are going to reproduce the following output by defining a dataframe *df*
@@ -124,7 +124,7 @@ success_msg("Nice work.  Dataframes do not always exist when we start EDA.  We c
 ```
 
 
---- type:NormalExercise xp:100 skills:1 key:47d81b7a82
+--- type:NormalExercise xp:200 skills:1 key:47d81b7a82
 ## EDA Goal One
 
 Let's practice EDA Goal One, Getting Familiar With Data, for base dataset *mtcars*
@@ -261,7 +261,7 @@ success_msg("Excellent.  That is the outline of EDA Goal One.  While we may devi
 ```
 
 
---- type:NormalExercise xp:100 skills:1 key:42e6c4c8a9
+--- type:NormalExercise xp:200 skills:1 key:42e6c4c8a9
 ## EDA Goal Two and Three (Numeric Data)
 
 Let's practice EDA Goal Two (Describe the Data) and Three (Assess and Transform the Data) for our base dataset *mtcars*
