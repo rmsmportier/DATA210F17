@@ -1,6 +1,6 @@
 ---
 title       : Homework 1
-description : What Is Data Science?
+description : EDA Goal Review
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
